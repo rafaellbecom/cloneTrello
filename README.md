@@ -7,4 +7,4 @@ Projeto pessoal de clone do front-end do <a href="https://trello.com/home">Websi
 ## :memo: Direitos:
 O projeto "Clone website Trello" foi desenvolvido apartir do Website da Trello, apenas por fins educacionais sem nenhuma pretenção comercial.
 ## :eye: Visualização:
-<a href="http://rafaellbecom/Clone-Trello">Visualize o projeto em funcionamento</a>
+<a href="http://rafaellbecom.github.io/Clone-Trello">Visualize o projeto em funcionamento</a>
