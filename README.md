@@ -1,6 +1,6 @@
 # Clone website Trello
 ## :book: Sobre:
-Projeto pessoal de clone do front-end do <a href="https://trello.com/home">Website da Trello</a>, foi desenvolvido com o intuito de colocar em prática/estudo conceitos de HTML5 & CSS3 como:
+Projeto pessoal de clone estático do <a href="https://trello.com/home">Website da Trello</a>, foi desenvolvido com o intuito de colocar em prática/estudo conceitos de HTML5 & CSS3 como:
  - Semântica;
  - FlexBox;
  - Alinhamentos.
